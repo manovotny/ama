@@ -1,23 +1,20 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+[Ask a question](../../issues/new) or [read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc).
 
-I get a lot of questions by email. This way anyone can read the answer!
+I get a lot of questions by email and social media. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
+## Guidelines
 
-### Guidelines
+* Ensure your question hasn't already been asked / answered.
+* Use a succinct title and description.
+* Bugs & feature requests for my other projects should be opened on their respective repositories.
+* Please be civil and polite.
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
+## Links
 
-### Links
-
-- [Read more AMAs](https://github.com/sindresorhus/amas)
+- [Find / Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [What is an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
